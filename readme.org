@@ -46,7 +46,8 @@ Practice]]:
 
 It is easy to find a number of posts such as these, making use of Stachowiak's
 key concepts, but it makes one yearn for reading the primitive work rather than
-its derivations.
+its derivations. I felt this need keenly when I was writing up my own PhD Thesis
+([[https://masd-project.github.io/progen/docs/models_and_transformations.html#ID-7D92A620-ED3E-D264-46A3-2A2597C59DC7][Section "Why Model?"]]).
 
 * Limitations
 
