@@ -58,3 +58,29 @@ actual or potential shortcomings of the book. Only through such communication
 can the approach presented here be refined, deepened, and expanded in a field
 where the efforts of an individual are not sufficient for further development.
 My thanks in advance to all who contribute to this.
+
+In the early stages of my model-theoretical considerations, discussions with Mr. P.
+Gäng and Prof. Dr. D. Wunderlich provided valuable suggestions during the
+drafting of the manuscript. I extend my heartfelt thanks to both of them for
+this. I am particularly indebted to Mr. Wunderlich for his assistance, often
+extending to formal details, in the development of the logical-explanatory part
+of the third chapter and the measurements contained therein. My gratitude goes
+to Prof. Dr. H. Pachale, Dipl.-Math. W. Krüger, and Dipl.-Math. R.-B. Lüschow
+for their critical review of the manuscript, and to Mr. Krüger for his thorough
+proofreading. The compilation of the index of names, as well as the meticulous
+review of the bibliography and the list of references, was made possible by Mr. H.
+Radimersky. Dr. G. Wersig kindly provided me with his year-long assistance in
+bibliographic research. Lastly, I must once again express my gratitude for the
+indispensable technical and organizational support from my longtime assistant
+Mrs. H. Stranz and my wife B. Stachowiak-Prästel.
+
+The German Research Foundation supported my model-theoretical efforts during an
+important phase of work (which had become critical for personal reasons), for
+which I extend my sincere thanks.
+
+I remain faithfully grateful to Springer Publishing for their understanding,
+patience, and consistently friendly cooperation.
+
+Berlin, Summer 1973
+
+Herbert Stachowiak
