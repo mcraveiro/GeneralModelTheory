@@ -43,7 +43,7 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v3
         with:
-          root_file: ./build/output/site/german.pdf
+          root_file: ./build/output/site/german.tex
       - name: Upload PDF file
         uses: actions/upload-artifact@v4
         with:
