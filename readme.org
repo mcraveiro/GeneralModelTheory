@@ -1,0 +1,39 @@
+#+title: General Model Theory
+#+author: Marco Craveiro
+#+options: num:nil author:nil toc:nil
+#+bind: org-html-validation-link nil
+
+This site contains the material related to the translation of the book
+[[https://archive.org/details/Stachowiak1973AllgemeineModelltheorie/page/n1/mode/2up]["Allgemeine Modelltheorie"]] by [[https://en.wikipedia.org/wiki/Herbert_Stachowiak][Herbert Stachowiak]] into English. The book is
+freely available in the [[https://archive.org/][Internet Archive]]. As [[https://en.wikipedia.org/wiki/Herbert_Stachowiak][wikipedia tells us]]:
+
+#+begin_quote
+Stachowiak's first monograph is called "Thinking and Knowing in the Cybernetic
+Model" (1965). He generalised and systematised the model concept in the standard
+work "Allgemeine Modelltheorie" (General Model Theory, 1973), which has never
+been translated into English. According to this, all cognition is cognition in
+models. Models are representations of "reality", which, however, necessarily
+shorten what is represented. The respective shaping of the models depends on the
+model constructor, his historical and social situation as well as his cognitive
+or creative interests. Thus, in addition to the depictive and foreshortening
+features, it is especially the pragmatic feature that determines how models are
+dealt with.
+#+end_quote
+
+This work is thus of great interest of anyone working on modeling, and a lack of
+an English translation is a striking gap in the literature. As I do not speak
+German, the translation is being performed by automated mains --- chiefly by
+recourse to ChatGPT and Google Translate.
+
+The project is composed of the following key files:
+
+- =orginal_german.txt=: Book content as sourced from the Internet Archive.
+- =Stachowiak (1973)_ Allgemeine Modelltheorie.pdf=: PDF of the original book.
+- =german.org=: Book content in the original German but formatted into Emacs'
+  org-mode, from whence automated generation of other formats --- such as PDF
+  and LaTex --- can be attained.
+- =english.org=: Book content translated to English.
+
+I am working on this project in my copious spare time, so work will be slow and
+halting. Any form of contributions are welcome, particularly in the form of Pull
+Requests.

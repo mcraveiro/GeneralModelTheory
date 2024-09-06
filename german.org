@@ -1,0 +1,34 @@
+#+title: Allgemeine Modelltheorie
+#+author: Prof. Dr. phil. Herbert Stachowiak
+#+LANGUAGE: de
+
+* Colophon
+
+Prof. Dr. phil. Herbert Stachowiak
+Berlin --- Paderborn
+
+Professor und Honorarprofessor Direktor des Instituts für Wissenschafts --- und
+Planungstheorie des Forschungs --- und Entwiddungszentrums für objektivierte
+Lefax --- und Lernverfahren GmbH.
+
+Das Werk ist urheberrechtlich geschützt.
+Die dadurch begründeten Rechte, insbesondere die der Übersetzung,
+des Nachdruckes, der Entnahme von Abbildungen,
+der Funksendung, der Wiedergabe auf photomechanischem
+oder ähnlichem Wege und der Speiche mng in Datenverarbeitungsanlagen,
+bleiben, auch bei nur auszugsweiser Verwertung, vorbehalten.
+
+(C) 1973 by Springer-Verlag/Wien
+
+Library of Congress Cataiog Card Number 73-75910
+
+Printed in Austria
+
+ISBN 3-211-81106-0 Springer-Verlag Wien --- New York
+ISBN 0-387-81106-0 Springer-Verlag New York --- Wien
+
+* Hingabe
+
+Meinem Vater
+Adalbert Stachowiak
+zum Gedächtnis
