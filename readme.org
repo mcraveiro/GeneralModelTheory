@@ -68,17 +68,20 @@ The project is composed of the following key files:
 - [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/Stachowiak%20(1973)_%20Allgemeine%20Modelltheorie.pdf][=Stachowiak (1973)_ Allgemeine Modelltheorie.pdf=]]: PDF of the original book.
 - [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/german.org][=german.org=]]: Book content in the original German but formatted into Emacs'
   org-mode, from whence automated generation of other formats --- such as PDF
-  and LaTex --- can be attained.
-- [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/english.org][=english.org=]]: Book content translated to English.
+  and LaTex --- can be attained. This file contains a number of small fixes from
+  the original text file, which are likely artefacts of an [[https://en.wikipedia.org/wiki/Optical_character_recognition][OCR]] process.
+- [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/english.org][=english.org=]]: Book content translated to English. Translation is made with
+  the help of ChatGPT, with the following prompt: "you are a german to english
+  translator for academic philosophy books. i will give you text in german and
+  you will return the translation of the text, without any other comments."
 
-I will be manually moving content from the original German into the German
-org-mode representation; then translating it into English via translation tools,
-and proofreading the output. There will soon be builds which generate HTML and
-PDF versions of the org-mode files.
+The approach is as follows: I will be manually moving content from the original
+German into the German org-mode representation, with minor fixes; it is then
+translating it into English via translation tools, and the output is proofread.
+We also compare it to the translation done by Google Chrome on the org-mode
+page. The org-mode documents generate two types of artefacts, via builds:
 
-The org-mode documents generate two types of artefacts:
-
-- HTML output browsable as a site. For example, [[file:german.org][German]] and [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/english.org][English]].
+- HTML output, [[https://mcraveiro.github.io/GeneralModelTheory/][browsable as a site]]. View the [[file:german.org][German]] and [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/english.org][English]] documents.
 - PDF output. This is added to each build. At present the quality of the PDFs is
   not great; we need to add a lot of LaTex magic to make it readable.
 
