@@ -64,6 +64,28 @@ org-mode representation; then translating it into English via translation tools,
 and proofreading the output. There will soon be builds which generate HTML and
 PDF versions of the org-mode files.
 
+* Contributions
+
 Note that I am working on this project in my [[http://catb.org/esr/jargon/html/C/copious-free-time.html][copious free time]], so work will be
 slow and halting. Any form of contributions are welcome, particularly in the
-form of Pull Requests.
+form of Pull Requests. If you want to do so, please see [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/CONTRIBUTING.md][CONTRIBUTING.md]] and
+[[https://github.com/mcraveiro/GeneralModelTheory/blob/main/CODE_OF_CONDUCT.md][CODE_OF_CONDUCT.md]].
+
+* Licence
+
+All of my work is available via the licence CC-BY-4.0. I assume that, since
+Stachowiak's work is available in the Internet Archive, it falls under [[https://en.wikipedia.org/wiki/Public_domain][public
+domain]]. However this is entirely not clear, as per Wikipedia:
+
+#+begin_quote
+A public-domain book is a book with no copyright, a book that was created
+without a license, or a book where its copyrights expired or have been
+forfeited.
+
+In most countries the term of protection of copyright expires on the first day
+of January, 70 years after the death of the latest living author. The longest
+copyright term is in Mexico, which has life plus 100 years for all deaths since
+July 1928.
+#+end_quote
+
+Once I understand the exact status of the work I will update this page.
