@@ -1,10 +1,10 @@
-;;; .build-site.el --- Build progen site.
+;;; .build-site.el --- Build gmt site.
 ;;
 ;; Copyright (C) 2023 Marco Craveiro
 ;;
 ;; Author: Marco Craveiro <marco.craveiro@gmail.com>
 ;; Maintainer: Marco Craveiro <marco.craveiro@gmail.com>
-;; URL: https://github.com/MASD-Project/progen/blob/main/.build-site.el
+;; URL: https://github.com/MASD-Project/gmt/blob/main/.build-site.el
 ;;
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -21,7 +21,7 @@
 ;;
 ;;; Commentary:
 ;;
-;; Builds the progen site under the build directory.
+;; Builds the gmt site under the build directory.
 ;;
 ;;; Code:
 (require 'package)
@@ -63,7 +63,7 @@
 ;; Define the publishing project
 (setq org-publish-project-alist
       '(
-        ("progen-site:pages"
+        ("gmt-site:pages"
          :recursive t
          :base-directory "./"
          :publishing-function org-html-publish-to-html
@@ -73,18 +73,18 @@
          :with-toc t                ;; Include a table of contents
          :section-numbers nil       ;; Don't include section numbers
          :time-stamp-file nil)      ;; Don't include time stamp in file
-        ("progen-site:images"
+        ("gmt-site:images"
          :base-directory "./assets/images"
          :base-extension "png\\|jpg\\|gif\\|svg"
          :publishing-directory "./build/output/site/assets/images"
          :publishing-function org-publish-attachment)
-        ("progen-site:css"
+        ("gmt-site:css"
          :base-directory "./assets/css"
          :base-extension "css"
          :publishing-directory "./build/output/site/assets/css"
          :publishing-function org-publish-attachment)
-        ( "progen-site:main"
-          :components("progen-site:images" "progen-site:pages" "progen-site:css"))
+        ( "gmt-site:main"
+          :components("gmt-site:images" "gmt-site:pages" "gmt-site:css"))
        ))
 
 ;; Generate the site output
