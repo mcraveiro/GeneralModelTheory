@@ -69,7 +69,7 @@ The project is composed of the following key files:
 - [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/german.org][=german.org=]]: Book content in the original German but formatted into Emacs'
   org-mode, from whence automated generation of other formats --- such as PDF
   and LaTex --- can be attained.
-- =english.org=: Book content translated to English.
+- [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/english.org][=english.org=]]: Book content translated to English.
 
 I will be manually moving content from the original German into the German
 org-mode representation; then translating it into English via translation tools,
