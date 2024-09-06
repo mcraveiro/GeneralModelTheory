@@ -5,7 +5,11 @@
 
 This site contains the material related to the translation of the book
 [[https://archive.org/details/Stachowiak1973AllgemeineModelltheorie/page/n1/mode/2up]["Allgemeine Modelltheorie"]] by [[https://en.wikipedia.org/wiki/Herbert_Stachowiak][Herbert Stachowiak]] into English. The book is
-freely available in the [[https://archive.org/][Internet Archive]]. As [[https://en.wikipedia.org/wiki/Herbert_Stachowiak][wikipedia tells us]]:
+freely available in the [[https://archive.org/][Internet Archive]].
+
+* What is "General Model Theory"?
+
+As [[https://en.wikipedia.org/wiki/Herbert_Stachowiak][wikipedia tells us]]:
 
 #+begin_quote
 Stachowiak's first monograph is called "Thinking and Knowing in the Cybernetic
@@ -20,20 +24,41 @@ features, it is especially the pragmatic feature that determines how models are
 dealt with.
 #+end_quote
 
+* Why do we need a translation?
+
 This work is thus of great interest of anyone working on modeling, and a lack of
-an English translation is a striking gap in the literature. As I do not speak
-German, the translation is being performed by automated mains --- chiefly by
+an English translation is a striking gap in the literature. As it happens,
+programmers think a lot about modeling. For example, take these posts from [[https://modelpractice.wordpress.com/][Model
+Practice]]:
+
+- [[https://modelpractice.wordpress.com/2012/07/04/model-stachowiak/][General Model Theory by Stachowiak]]
+- [[https://modelpractice.wordpress.com/2012/07/11/stachowiak-model-system/][Stachowiak’s K-System of Modelling]]
+
+It is easy to find a number of posts such as these, making use of Stachowiak's
+key concepts, but it makes one yearn for reading the primitive work rather than
+its derivations.
+
+* Limitations
+
+Unfortunately, I am spectacularly under-qualified for this particular task: I do
+not speak German; though a "doctor of philosophy", I am not an actual
+philosopher but a mere computer scientist, and mostly a software engineer at
+that; and English is not my native language. I appear to have one only redeeming
+quality, which is that there are no other takers. We also have technology on our
+side: the translation will be performed by automated mains --- chiefly by
 recourse to ChatGPT and Google Translate.
+
+* Approach
 
 The project is composed of the following key files:
 
-- =orginal_german.txt=: Book content as sourced from the Internet Archive.
-- =Stachowiak (1973)_ Allgemeine Modelltheorie.pdf=: PDF of the original book.
-- =german.org=: Book content in the original German but formatted into Emacs'
+- [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/orginal_german.txt][orginal_german.txt]]: Book content as sourced from the Internet Archive.
+- [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/Stachowiak%20(1973)_%20Allgemeine%20Modelltheorie.pdf][Stachowiak (1973)_ Allgemeine Modelltheorie.pdf]]: PDF of the original book.
+- [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/german.org][german.org]]: Book content in the original German but formatted into Emacs'
   org-mode, from whence automated generation of other formats --- such as PDF
   and LaTex --- can be attained.
 - =english.org=: Book content translated to English.
 
-I am working on this project in my copious spare time, so work will be slow and
+I am working on this project in my [[http://catb.org/esr/jargon/html/C/copious-free-time.html][copious free time]], so work will be slow and
 halting. Any form of contributions are welcome, particularly in the form of Pull
 Requests.
