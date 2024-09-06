@@ -94,11 +94,11 @@ Herbert Stachowiak
 
 Im wissenschaftlichen wie außerwissenschaftlichen Sprachgebrauch hat gegenwärtig
 der Modellbegriff zunehmend Relevanz erlangt. Bei zahlreichen passenden — leider
-auch unpassenden — Gelegenheiten ist von „Modellen“ die Rede. Das W ort Modell
+auch unpassenden — Gelegenheiten ist von „Modellen“ die Rede. Das Wort Modell
 wird ebenso gedankenlos fehlverwendet, wie man es als bewußt gewählten
 wissenschaftlichen Terminus in Zusammenhängen findet, die das Bestreben erkennen
 lassen, es mit einer streng explizierten oder wenigstens explizierbaren
-Bedeutung zu verbinden. In der M athematik und Logik ist dies unter starker
+Bedeutung zu verbinden. In der Mathematik und Logik ist dies unter starker
 Einschränkung seines Bedeutungsgehaltes realisiert, und einige Autoren, die
 diese Einschränkung nicht für fruchtbar hielten, haben versucht, das Spezifische
 des Modellbegriffs so zu charakterisieren, daß erkennbar wird, in welchem Sinne
