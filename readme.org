@@ -64,8 +64,8 @@ the translation will be performed by automated mains --- chiefly by recourse to
 
 The project is composed of the following key files:
 
-- [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/orginal_german.txt][=orginal_german.txt=]]: Book content as sourced from the Internet Archive.
-- [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/Stachowiak%20(1973)_%20Allgemeine%20Modelltheorie.pdf][=Stachowiak (1973)_ Allgemeine Modelltheorie.pdf=]]: PDF of the original book.
+- [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/original/orginal_german.txt][=orginal_german.txt=]]: Book content as sourced from the Internet Archive.
+- [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/original/Stachowiak%20(1973)_%20Allgemeine%20Modelltheorie.pdf][=Stachowiak (1973)_ Allgemeine Modelltheorie.pdf=]]: PDF of the original book.
 - [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/german.org][=german.org=]]: Book content in the original German but formatted into Emacs'
   org-mode, from whence automated generation of other formats --- such as PDF
   and LaTex --- can be attained. This file contains a number of small fixes from
