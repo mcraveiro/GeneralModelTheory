@@ -62,9 +62,9 @@ recourse to ChatGPT and Google Translate.
 
 The project is composed of the following key files:
 
-- [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/orginal_german.txt][orginal_german.txt]]: Book content as sourced from the Internet Archive.
-- [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/Stachowiak%20(1973)_%20Allgemeine%20Modelltheorie.pdf][Stachowiak (1973)_ Allgemeine Modelltheorie.pdf]]: PDF of the original book.
-- [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/german.org][german.org]]: Book content in the original German but formatted into Emacs'
+- [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/orginal_german.txt][=orginal_german.txt=]]: Book content as sourced from the Internet Archive.
+- [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/Stachowiak%20(1973)_%20Allgemeine%20Modelltheorie.pdf][=Stachowiak (1973)_ Allgemeine Modelltheorie.pdf=]]: PDF of the original book.
+- [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/german.org][=german.org=]]: Book content in the original German but formatted into Emacs'
   org-mode, from whence automated generation of other formats --- such as PDF
   and LaTex --- can be attained.
 - =english.org=: Book content translated to English.
@@ -83,7 +83,7 @@ form of Pull Requests. If you want to do so, please see [[https://github.com/mcr
 
 * Licence
 
-All of my work is available via the licence CC-BY-4.0. I assume that, since
+All of my work is available via the licence [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/CC-BY-4.0][CC-BY-4.0]]. I assume that, since
 Stachowiak's work is available in the Internet Archive, it falls under [[https://en.wikipedia.org/wiki/Public_domain][public
 domain]]. However this is entirely not clear, as per Wikipedia:
 
