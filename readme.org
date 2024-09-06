@@ -74,12 +74,17 @@ org-mode representation; then translating it into English via translation tools,
 and proofreading the output. There will soon be builds which generate HTML and
 PDF versions of the org-mode files.
 
+The org-mode documents generate two types of artefacts:
+
+- HTML output browsable as a site. For example, [[file:german.org][German]] and English.
+- PDF output. This is added to each build.
+
 * Contributions
 
 Note that I am working on this project in my [[http://catb.org/esr/jargon/html/C/copious-free-time.html][copious free time]], so work will be
 slow and halting. Any form of contributions are welcome, particularly in the
-form of Pull Requests. If you want to do so, please see [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/CONTRIBUTING.md][CONTRIBUTING.md]] and
-[[https://github.com/mcraveiro/GeneralModelTheory/blob/main/CODE_OF_CONDUCT.md][CODE_OF_CONDUCT.md]].
+form of Pull Requests. If you want to do so, please see [[https://github.com/mcraveiro/GeneralModelTheory/blob/main/CONTRIBUTING.md][=CONTRIBUTING.md=]] and
+[[https://github.com/mcraveiro/GeneralModelTheory/blob/main/CODE_OF_CONDUCT.md][=CODE_OF_CONDUCT.md=]].
 
 * Licence
 
