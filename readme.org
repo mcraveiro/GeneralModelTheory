@@ -5,7 +5,7 @@
 #+startup: inlineimages
 #+export_file_name: index
 
-#+html: <a href="https://github.com/OreStudio/OreStudio/blob/main/LICENSE"><img alt="Licence" src="https://github.com/mcraveiro/GeneralModelTheory/blob/main/CC-BY-4.0"/></a>
+#+html: <a href="https://github.com/mcraveiro/GeneralModelTheory/blob/main/CC-BY-4.0"><img alt="Licence" src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg"/></a>
 #+html: <a href="https://github.com/mcraveiro/GeneralModelTheory/actions/workflows/build-site.yml"><img alt="Continuous Linux" src="https://github.com/mcraveiro/GeneralModelTheory/actions/workflows/build-site.yml/badge.svg"/></a>
 
 
@@ -14,7 +14,8 @@ This site contains the material related to the translation of the book
 freely available in the [[https://archive.org/][Internet Archive]].
 
 [[./assets/images/cover.jpg]]
-_Figure 1: Book cover. Source: [[https://www.waterstones.com/book/allgemeine-modelltheorie/herbert-stachowiak/9783709183281][Waterstones]]._
+
+/Figure 1/: Book cover. Source: [[https://www.waterstones.com/book/allgemeine-modelltheorie/herbert-stachowiak/9783709183281][Waterstones]].
 
 * What is "General Model Theory"?
 
