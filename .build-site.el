@@ -87,7 +87,7 @@
          :base-directory "./"
          :recursive nil
          :exclude ".*"
-         :include ["german.org"]
+         :include ["german.org" "english.org"]
          :publishing-directory "./build/output/site"
          :publishing-function org-latex-publish-to-latex)
         ("gmt-site:main"

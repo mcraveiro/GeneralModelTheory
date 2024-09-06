@@ -40,12 +40,16 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
-      - name: Compile LaTeX document
+      - name: Compile German
         uses: xu-cheng/latex-action@v3
         with:
           root_file: ./build/output/site/german.tex
-      - name: Upload PDF file
+      - name: Compile English
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: ./build/output/site/english.tex
+      - name: Upload PDF files
         uses: actions/upload-artifact@v4
         with:
           name: German PDF
-          path: german.pdf
+          path: *.pdf
