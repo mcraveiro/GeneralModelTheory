@@ -83,18 +83,18 @@
          :base-extension "css"
          :publishing-directory "./build/output/site/assets/css"
          :publishing-function org-publish-attachment)
-        ("gmt-site:pdf"
+        ("gmt-site:latex"
          :base-directory "./"
          :recursive nil
          :exclude ".*"
          :include ["german.org"]
          :publishing-directory "./build/output/site"
-         :publishing-function org-latex-publish-to-pdf)
+         :publishing-function org-latex-publish-to-latex)
         ("gmt-site:main"
           :components ("gmt-site:images"
                        "gmt-site:pages"
                        "gmt-site:css"
-                       "gmt-site:pdf")))
+                       "gmt-site:latex")))
       )
 
 ;; Generate the site output
