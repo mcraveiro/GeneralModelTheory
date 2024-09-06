@@ -59,6 +59,11 @@ The project is composed of the following key files:
   and LaTex --- can be attained.
 - =english.org=: Book content translated to English.
 
-I am working on this project in my [[http://catb.org/esr/jargon/html/C/copious-free-time.html][copious free time]], so work will be slow and
-halting. Any form of contributions are welcome, particularly in the form of Pull
-Requests.
+I will be manually moving content from the original German into the German
+org-mode representation; then translating it into English via translation tools,
+and proofreading the output. There will soon be builds which generate HTML and
+PDF versions of the org-mode files.
+
+Note that I am working on this project in my [[http://catb.org/esr/jargon/html/C/copious-free-time.html][copious free time]], so work will be
+slow and halting. Any form of contributions are welcome, particularly in the
+form of Pull Requests.
