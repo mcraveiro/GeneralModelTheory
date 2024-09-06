@@ -1,8 +1,0 @@
-#+title: General Model Theory
-#+author: Marco Craveiro
-#+options: num:nil author:nil toc:nil
-#+bind: org-html-validation-link nil
-
-This site contains the material related to the translation of the book
-[[https://archive.org/details/Stachowiak1973AllgemeineModelltheorie/page/n1/mode/2up]["Allgemeine Modelltheorie"]] by [[https://en.wikipedia.org/wiki/Herbert_Stachowiak][Herbert Stachowiak]] into English. The book is
-freely available in the [[https://archive.org/][Internet Archive]]. For more details see [[readme.org]].

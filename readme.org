@@ -2,10 +2,19 @@
 #+author: Marco Craveiro
 #+options: num:nil author:nil toc:nil
 #+bind: org-html-validation-link nil
+#+startup: inlineimages
+#+export_file_name: index
+
+#+html: <a href="https://github.com/OreStudio/OreStudio/blob/main/LICENSE"><img alt="Licence" src="https://github.com/mcraveiro/GeneralModelTheory/blob/main/CC-BY-4.0"/></a>
+#+html: <a href="https://github.com/mcraveiro/GeneralModelTheory/actions/workflows/build-site.yml"><img alt="Continuous Linux" src="https://github.com/mcraveiro/GeneralModelTheory/actions/workflows/build-site.yml/badge.svg"/></a>
+
 
 This site contains the material related to the translation of the book
 [[https://archive.org/details/Stachowiak1973AllgemeineModelltheorie/page/n1/mode/2up]["Allgemeine Modelltheorie"]] by [[https://en.wikipedia.org/wiki/Herbert_Stachowiak][Herbert Stachowiak]] into English. The book is
 freely available in the [[https://archive.org/][Internet Archive]].
+
+[[./assets/images/cover.jpg]]
+_Figure 1: Book cover. Source: [[https://www.waterstones.com/book/allgemeine-modelltheorie/herbert-stachowiak/9783709183281][Waterstones]]._
 
 * What is "General Model Theory"?
 
