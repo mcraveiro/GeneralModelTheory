@@ -19,13 +19,13 @@ freely available in the [[https://archive.org/][Internet Archive]].
 
 * What is "General Model Theory"?
 
-As [[https://en.wikipedia.org/wiki/Herbert_Stachowiak][wikipedia tells us]]:
+As [[https://en.wikipedia.org/wiki/Herbert_Stachowiak][wikipedia tells us]] (/emphasis ours/):
 
 #+begin_quote
 Stachowiak's first monograph is called "Thinking and Knowing in the Cybernetic
 Model" (1965). He generalised and systematised the model concept in the standard
-work "Allgemeine Modelltheorie" (General Model Theory, 1973), which has never
-been translated into English. According to this, all cognition is cognition in
+work "Allgemeine Modelltheorie" (General Model Theory, 1973), /which has never
+been translated into English/. According to this, all cognition is cognition in
 models. Models are representations of "reality", which, however, necessarily
 shorten what is represented. The respective shaping of the models depends on the
 model constructor, his historical and social situation as well as his cognitive
@@ -51,13 +51,14 @@ its derivations. I felt this need keenly when I was writing up my own PhD Thesis
 
 * Limitations
 
-Unfortunately, I am spectacularly under-qualified for this particular task: I do
-not speak German; though a "doctor of philosophy", I am not an actual
-philosopher but a mere computer scientist, and mostly a software engineer at
-that; and English is not my native language. I appear to have one only redeeming
-quality, which is that there are no other takers. We also have technology on our
-side: the translation will be performed by automated mains --- chiefly by
-recourse to ChatGPT and Google Translate.
+Unfortunately, I am spectacularly under-qualified for this particular task:
+first and foremost, I do not speak German and know very little of the language;
+secondly, though a "doctor of philosophy", I am not an actual philosopher but a
+mere computer scientist, and mostly a software engineer at that; and, finally,
+English is not my native language. I appear to have one only redeeming quality,
+which is that there are no other takers. We also have technology on our side:
+the translation will be performed by automated mains --- chiefly by recourse to
+[[https://chatgpt.com/][ChatGPT]] and [[https://translate.google.com/][Google Translate]].
 
 * Approach
 
