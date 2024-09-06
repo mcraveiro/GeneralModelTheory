@@ -30,7 +30,7 @@ To my father
 Adalbert Stachowiak
 in remembrance
 
-* Preface
+* Foreword
 
 The present study is the result of many years of research surrounding the
 concept of models. It began in 1957 with an initial systematic attempt at
