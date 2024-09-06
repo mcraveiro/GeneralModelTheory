@@ -84,3 +84,21 @@ patience, and consistently friendly cooperation.
 Berlin, Summer 1973
 
 Herbert Stachowiak
+
+* Introduction
+
+In both scientific and non-scientific usage, the concept of a model has gained
+increasing relevance. On numerous appropriate — unfortunately also inappropriate
+— occasions, there is talk of "models." The word "model" is often misused
+thoughtlessly, just as it is found as a consciously chosen scientific term in
+contexts that reveal an effort to associate it with a strictly explicated or at
+least explicable meaning. In mathematics and logic, this has been realized with
+significant limitations on its meaning, and some authors, who did not find this
+restriction fruitful, have attempted to characterize the specific nature of the
+model concept in a way that makes it clear how they intend for the term to be
+understood and used. There are also approaches to taxonomic classification of
+models to be found here and there. However, with most authors who refer to
+models in various contexts, one largely, if not entirely, misses any
+scientific-theoretical or methodological reflection on the concept of a model
+that they presuppose. In such cases, its characteristics can only be inferred
+indirectly from the given contexts.
