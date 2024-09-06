@@ -7,9 +7,8 @@
 Prof. Dr. phil. Herbert Stachowiak
 Berlin --- Paderborn
 
-Professor und Honorarprofessor Direktor des Instituts für Wissenschafts --- und
-Planungstheorie des Forschungs --- und Entwiddungszentrums für objektivierte
-Lefax --- und Lernverfahren GmbH.
+Direktor des Instituts für Wissenschafts- und Planungstheorie des Forschungs-
+und Entwicklungszentrums für objektivierte Lehr- und Lernverfahren GmbH.
 
 Das Werk ist urheberrechtlich geschützt.
 Die dadurch begründeten Rechte, insbesondere die der Übersetzung,
@@ -32,3 +31,33 @@ ISBN 0-387-81106-0 Springer-Verlag New York --- Wien
 Meinem Vater
 Adalbert Stachowiak
 zum Gedächtnis
+
+* Vorwort
+
+Die vorliegende Untersuchung ist das Ergebnis langjähriger Studien im Umkreis
+des Modellbegriffs. Sie begannen 1957 mit einem ersten systematischen
+Orientierungsversuch („Uber kausale, konditionale und strukturelle
+Erklärungsmodelle“, Philosophia Naturalis, Bd. IV, H. 4, 1957, p. 403— 433) und
+führten über mehrere Stufen fortschreitender Systematisierung zu dem 1965
+vorgelegten modelltheoretischen Konzept („Gedanken zu einer allgemeinen Theorie
+der Modelle“, Studium Generale, 18. Jg., H. 7, 1965, p. 432— 463), das ich
+schließlich auf die Fassung der jetzt vorliegenden „Allgemeinen Modelltheorie“
+erweitern und präzisieren konnte. Ende 1969 folgte ich einer Einladung der
+UNESCO, Paris, eine Studie über den Modellbegriff abzufassen. Diese Arbeit ist
+inzwischen erschienen in dem Sammelwerk „Scientific Thought“, Band 9 der Reihe
+New Babylon (Mouton/Unesco, Paris-The Hague, 1972). Sie ist zum Teil als
+Vorentwurf des dritten Kapitels der „Allgemeinen Modelltheorie“ zu betrachten.
+Andere eigene Veröffentlichungen, insbesondere auf erkenntnispsychologischem und
+wissenschaftstheoretischem Gebiet, sind durch die erwähnten modelltheoretischen
+Untersuchungen beeinflußt. An ihren Ergebnissen ist auch mein Buch „Denken und
+Erkennen im kybernetischen Modell“ (Wien — New York: Springer, 2. Aufl., 1969)
+orientiert.
+
+Mit vielen meiner Leser — kritische Rezensenten inbegriffen — betrachte ich mich
+als in einem umfassenden Gesprächs- und Arbeitszusammenhang verbunden. Daher sei
+auch zu dem vorliegenden Werk die Bitte um Hinweise auf systematische Fehler,
+Disproportionalitäten, bedenklich scheinende Wertsetzungen und sonstige
+tatsächliche oder mögliche Mängel des Buches vorgetragen. Nur in solcher
+Kommunikation kann auf einem Felde, zu dessen weiterer Bearbeitung die Kräfte
+eines einzelnen nicht ausreichen, der vorgelegte Ansatz bereinigt, vertieft und
+erweitert werden. Allen Helfern hieran Dank im voraus.

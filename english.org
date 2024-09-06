@@ -1,0 +1,60 @@
+#+title: General Model Theory
+#+author: Prof. Dr. phil. Herbert Stachowiak
+
+* Colophon
+
+Prof. Dr. phil. Herbert Stachowiak
+Berlin --- Paderborn
+
+Full Professor and Honorary Professor Director of the Institute for the Theory
+of Science and Planning of the Research and Development Center for Objectified
+Teaching and Learning Methods Ltd.
+
+The work is protected by copyright. The rights arising from this, in particular
+those of translation, reprinting, extraction of illustrations, radio
+broadcasting, reproduction by photomechanical or similar means, and storage in
+data processing systems, remain reserved, even when only excerpts are used.
+
+(C) 1973 by Springer-Verlag/Wien
+
+Library of Congress Cataiog Card Number 73-75910
+
+Printed in Austria
+
+ISBN 3-211-81106-0 Springer-Verlag Wien --- New York
+ISBN 0-387-81106-0 Springer-Verlag New York --- Wien
+
+* Dedication
+
+To my father
+Adalbert Stachowiak
+in remembrance
+
+* Preface
+
+The present study is the result of many years of research surrounding the
+concept of models. It began in 1957 with an initial systematic attempt at
+orientation ("On causal, conditional, and structural explanatory models,"
+Philosophia Naturalis, Vol. IV, No. 4, 1957, pp. 403–433) and progressed through
+several stages of increasing systematization, leading to the model-theoretical
+concept presented in 1965 ("Thoughts on a General Theory of Models," Studium
+Generale, Vol. 18, No. 7, 1965, pp. 432–463), which I was finally able to expand
+and refine into the present version of General Model Theory. At the end of 1969,
+I accepted an invitation from UNESCO, Paris, to write a study on the concept of
+models. This work has since been published in the collection Scientific Thought,
+Volume 9 of the series New Babylon (Mouton/UNESCO, Paris-The Hague, 1972). It
+can be considered, in part, as a preliminary draft of the third chapter of
+General Model Theory. Other publications of mine, especially in the fields of
+epistemological psychology and the theory of science, have been influenced by
+the aforementioned model-theoretical investigations. My book Thinking and
+Cognition in the Cybernetic Model (Vienna—New York: Springer, 2nd ed., 1969) is
+also guided by their results.
+
+With many of my readers — critical reviewers included — I consider myself to be
+engaged in an extensive dialogue and collaborative effort. Therefore, I would
+like to invite feedback on the present work, particularly regarding any
+systematic errors, disproportions, questionable value judgments, and other
+actual or potential shortcomings of the book. Only through such communication
+can the approach presented here be refined, deepened, and expanded in a field
+where the efforts of an individual are not sufficient for further development.
+My thanks in advance to all who contribute to this.
