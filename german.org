@@ -109,3 +109,110 @@ vermißt man weitgehend, wenn nicht gänzlich,
 wissenschaftstheoretisch-methodologische Reflexion über den von ihnen zugrunde
 gelegten Modellbegriff. Dessen Charakteristika können in solchen Fällen nur
 indirekt aus den gebotenen Kontexten erschlossen werden.
+
+Gerade hier aber, wo noch der mehr intuitive Zugriff des Schreibenden und
+Sprechenden die Funktion normierender terminologischer Verwendungsregeln
+innehat, pflegt nicht selten der Wandel der Sprachgewohnheit, indem diese sich
+fast unmerklich an einen bestimmten Stil der Betrachtung und des Denkens
+adaptiert, zum Indiz neu sich gestaltender allgemeiner Haltungen und
+Einstellungen zu werden. Die zunehmende Neigung zeitgenössischer Forscher, sogar
+Erkenntnisgebilde von der Qualität hochkomplexer erfahrungswissenschaftlicher
+Theorien als ..Modelle" aufzufassen oder sie zumindesr kurzweg so zu nennen,
+dürfte in diesem Sinne eine tiefliegende Wandlung
+wissenschaftlich-philosophischen Denkens sichtbar werden lassen. Es ist dies
+fraglos eine Wandlung nicht zuletzt der Ansprüdie, die der Wissenschaftler und
+der wissenschaftlich orientierte Philosoph an ihre Tätigkeit und deren
+Ergebnisse stellen zu dürfen glauben:
+
+Mit den wachsenden Anforderungen an die instrumentale, insbesondere
+prognostische Qualität und die wertbezogene Funktionalität der Erkenntnisgebilde
+ist ein rasches Dahinschwinden der klassisch-erkenntnistheoretischen Auffassung
+verbunden, die am Ideal der inten tionslos- wertfreien, auf objektive
+„Realitätsabbildung" zielenden Erkenntnis orientiert war. Die
+Forschergeneration, aus der heraus dieses Ideal noch in den Beginn der zweiten
+Hälfte unseres Jahrhunderts hineinwirken konnte, ist fast ausgestorben. Die
+meisten jungen Wissenschaftler unserer Tage begreifen gar nicht mehr jene Mühe
+um Wahrheit und Ewigkeit, um Letzrbegründung und Objektivität, die für die
+meisten der Älteren schlechterdings leitend und maßgebend war.
+
+[Nicht, daß es jetzt keine „metaphysischen" Bedürfnisse mehr in Dingen des
+Wissens gäbe! Aber diese Bedürfnisse und Antriebe sind ««zentriert. Der
+menschferne rationalistische Dogmatismus und Objektivismus ist, auch noch in
+seinen kriti(zisti)schen und (quasi-) pragmatischen Fortsetzungen von Kant bis
+Popper, zerfallen. Das neue Zentrum einer total säkularisierten „metaphysischen"
+Sehnsucht ist die Gesellschaft oder vielmehr das vergesellschaftete Ich, und das
+Grundthema dieser Sehnsucht lautet „Emanzipation". Damit ist der Kampf gegen die
+Leiden der tatsächlich oder vermeintlich „Unterpriviligierten" gemeint, der in
+der Hauptsache Kampf ist gegen das jeweilige „Establishment". Erklärt
+parteilich, stützt sich die neue „Metaphysik" auf soziale Gerechtigkeit. Dieser
+will sie alles unterordnen, auch den Grundwert der individuellen
+Selbstverwirklichung. Ihre empirischen Evidenzen sind im Grunde Hoffnungen, und
+die Starre der Unbelehrbarkeit macht sie gegenüber ihrer klassischen Vorgängerin
+gleichsam zum Dogmatismus höherer Ordnung. Sie ist bereit, auch noch das kleine
+Einmaleins zum Ausdruck falschen Bewußtseins und damit zur Unwissenschaft zu
+erklären, wenn es sich als „repressives Instrument der Etablierten" erweist. —
+Wahrscheinlich wird die bemerkenswerte Affinität einer offenbar wach- senden
+Zahl von Intellektuellen zu solch „metaphysisch" verabsolutiertem Engagement
+bestimmend oder doch wesentlich mitbestim- mend werden für die soziokulturelle
+Entwicklung noch der nächsten Jahre.
+
+Auf längere Sicht dürften jedoch zwangsläufig die geschidulidi gewachsenen
+liberalen Formen der philosophischen Diskussion gegcnüba stii 01 htatx weithin
+als unerträglich HUp£imdeo.äa kollekri visuschen Tendenzen überdauern. Dabei ist
+natürlich vorausgesetzt, daß die gegenwärtige Menschheit aus verantwortlicher
+Rationalität entwickelte und durchsetzbare Rezepte gegen eine Reihe
+selbstzerstörerischer Krankheiten, nicht zuletzt gegen die Ideologie des
+permanenten technisch-wirtschaitlichen Wachstums, zu linden vermag.]
+
+Das erste Kapitel dieses Buches beschäftigt sich vor allem mit der
+erkenntnistheoretischen Problematik des Modellbegriffs. Die dabei offenbar
+werdende philosophische Grundeinstellung ist die des Pragmatikers
+wahrheitsphilosophiseher Provenienz. Sublime Pragmatiker ähneln oft Atheisten,
+die ihren Gott gesucht, aber nicht gefunden haben; oder deren Gott sich ihnen
+vielleicht in beglückend verfremdeter Gestalt offenbart. Enttäuschung kann
+allerdings in Befreiung ausmünden, Ent-bergung in neue Geborgenheiten führen. —
+
+Es ist notwendig, einleitend festzustellen, daß die im zweiten und dritten
+Kapitel In Angriff genommene Modelltheorie nicht mit der von A. Tarski
+geschaffenen semantischen Modelltheorie identisch ist. Sie ist auch kein
+Teilgebiet derselben. Der hier verwendete Modellbegriff ist erheblich weiter
+gefaßt. Er schließt auf der formalwissenschaftlichen Seite die durch
+Äquivalenzklassenbildung gewonnenen sogenannten abstrakten Strukturen der
+Mathematik und andere „formale Absrraktionsmodelie" ebenso ein wie auf der
+erfahrungswissenschaftlichen Seire die in großer Vielfalt auftretenden
+empirischen Modelle, Unter ihn fallen auch iKe technischen Modelle. Als was
+immer sonst alle diese Modelle betrachtet werden, sie erweisen sich als sowohl
+abbildungstheoretisch wie auch in ihren pragmatischen Bezügen ein hei dich
+erfaßbar.
+
+Darin, daß hier der — außerhalb der formalen Wissenschaften bisher fast nur
+intuitiv, ohne strenge Definition, verwendete — Modellbegriff in der
+angedeuteten Allgemeinheit abbildungstheoretisch expliziert wird, unterscheidet
+sich die Allgemeine Modelltheorie bereits im Grundansatz auch van denjenigen
+wissenschaftstheoretischen Versuchen, die die empirischen Modelle, soweit sie
+diese überhaupt m die Betrachtung einbeziehen, ausschließlich der (meta-)
+mathematischen und semantischen Modellkonzeption unterwerfen. Die in Frage
+stehenden Modelle werden nach der Auffassung der betreffenden
+Wissenschaftstheoretiker als „Belegungsmodelle" oder „Realisationen"
+präexistenter Theorien, d. h. als nicht-linguistische, nämlich mengentheoretisch
+erfaßbare Interpretationen linguisti sehet Formgebilde aufgefaß[fn:suppes].
+
+[fn:suppes] Repräsentativ für diese Gruppe von Forschern: P. Suppes, 1961, 1965.
+Vgl. hier und im folgenden das Literaturverzeichnis, S. 363 ff.
+
+
+Gegen die Übertragung des logisch-semantischen Modellbegriffs auf die Erfahrungs
+Wissenschaften, so logisch befriedigend sie immer sein mag, ist einzuwenden, daß
+sie dem weithin geübten wissenschaftlichen Sprachgebrauch in keiner Weise
+gerecht wird. So würden zahlreiche Erkenntnisgebilde, die im
+abbildungstheoretischen Sinne durchaus als Modelle gelten, ausgeklammert, nur
+weil für sie eine strenge Theorie, deren Belegungsmodelle sie wären, nicht oder
+noch nicht explizit angegeben werden kann. Ja, in vielen Fällen dienen derartige
+empirische (und technischej Modelkonstruktionen gerade dem Aufbau und der
+Entwicklung von Theorien. Hierin liegt vornehmlich ihr großer heuristischer
+Wert. Scheint jene gegenständliche Beschränkung mithin wenig ratsam, so ist doch
+andererseits bei dem hier bevorzugten Vorgehen die Gefahr einer
+„Uberhomogenisierung“ unterschiedlichster Modellbegriffe und damit der starken
+Bedeutungsentleerung des resultierenden allgemeinen Modelibegriffs vorerst nicht
+von der Hand zu weisen. Dieses mögliche Manko wird hier ausdrücklich in Kauf
+genommen.

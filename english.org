@@ -102,3 +102,100 @@ models in various contexts, one largely, if not entirely, misses any
 scientific-theoretical or methodological reflection on the concept of a model
 that they presuppose. In such cases, its characteristics can only be inferred
 indirectly from the given contexts.
+
+It is precisely here, where the more intuitive grasp of the writer and speaker
+still fulfills the function of normative terminological usage rules, that the
+gradual shift in linguistic habits — as these almost imperceptibly adapt to a
+particular style of thought and observation — often becomes an indication of
+newly emerging general attitudes and perspectives. The growing tendency of
+contemporary researchers to regard even epistemic structures as complex as
+empirical scientific theories as "models," or at least to casually refer to them
+as such, likely reveals a profound transformation in scientific-philosophical
+thinking. This is undoubtedly a change in, among other things, the expectations
+that scientists and scientifically-oriented philosophers believe they are
+entitled to place on their activities and the results of those activities.
+
+The increasing demands on the instrumental, especially prognostic, quality and
+value-oriented functionality of knowledge structures have been accompanied by
+the rapid decline of the classical epistemological view, which was oriented
+towards the ideal of value-free, intentionless knowledge aimed at objective
+"representation of reality." The generation of researchers for whom this ideal
+still had influence into the early part of the second half of our century has
+almost died out. Most young scientists today no longer understand the pursuit of
+truth and eternity, of ultimate justification and objectivity, which was simply
+guiding and decisive for most of the older generation.
+
+[Not that there are no longer any "metaphysical" needs in matters of knowledge!
+But these needs and drives have been re-centered. The distant rationalistic
+dogmatism and objectivism, even in its critical (or quasi-pragmatic)
+continuations from Kant to Popper, has disintegrated. The new center of a
+completely secularized "metaphysical" longing is society - or rather the
+socialized self - and the core theme of this longing is "emancipation." This
+refers to the struggle against the suffering of the actually or supposedly
+"underprivileged," which is, at its heart, a struggle against the current
+"establishment." Declared partisan, the new "metaphysics" relies on social
+justice. It seeks to subordinate everything to this, including the fundamental
+value of individual self-realization. Its empirical evidences are essentially
+hopes, and its rigidity in being unteachable makes it, in a way, a higher-order
+dogmatism compared to its classical predecessor. It is even ready to declare
+basic arithmetic as an expression of false consciousness — and therefore as
+unscientific — if it proves to be a "repressive instrument of the
+establishment." The remarkable affinity of an apparently growing number of
+intellectuals to such "metaphysically" absolutized engagement will likely become
+a determining or at least significantly contributing factor to the sociocultural
+development in the coming years.
+
+In the long run, however, the laboriously developed liberal forms of
+philosophical discussion are likely to be perceived as largely intolerable in
+the face of growing collectivist tendencies. This, of course, assumes that
+humanity will be able to find and implement solutions, developed from
+responsible rationality, to a series of self-destructive ailments — not least
+among them the ideology of permanent technical and economic growth.]
+
+The first chapter of this book deals primarily with the epistemological issues
+surrounding the concept of a model. The philosophical stance that emerges here
+is one of a pragmatist with a background in truth philosophy. Sublime
+pragmatists often resemble atheists who have sought their god but have not found
+him - or whose god has perhaps revealed himself to them in a blissfully alien
+form. Disappointment, however, can lead to liberation, and uncovering can lead
+to new forms of security.
+
+It is necessary to state at the outset that the model theory addressed in the
+second and third chapters is not identical to the semantic model theory
+developed by A. Tarski. Nor is it a subfield of it. The concept of a model used
+here is considerably broader. On the formal scientific side, it includes the
+so-called abstract structures of mathematics, which are obtained through the
+formation of equivalence classes, as well as other "formal abstraction models."
+On the empirical scientific side, it encompasses the wide variety of empirical
+models that appear, and it also includes technical models. Whatever else these
+models may be considered, they prove to be graspable both in terms of
+representation theory and in their pragmatic relations.
+
+The fact that the concept of a model—previously used almost exclusively in an
+intuitive manner outside the formal sciences, without strict definition - is
+explicated in representational-theoretic terms with the indicated generality is
+what sets General Model Theory apart from other approaches in scientific theory.
+These other approaches, when they consider empirical models at all, typically
+subject them exclusively to the (meta-)mathematical and semantic model
+conception. According to these scientific theorists, the models in question are
+understood as "interpretation models" or "realizations" of pre-existing
+theories, i.e., as non-linguistic, set-theoretically comprehensible
+interpretations of linguistic structures[fn:suppes].
+
+[fn:suppes] Repräsentativ für diese Gruppe von Forschern: P. Suppes, 1961, 1965.
+Vgl. hier und im folgenden das Literaturverzeichnis, S. 363 ff.
+
+
+Against the application of the logical-semantic concept of a model to the
+empirical sciences, as logically satisfying as it may be, one can object that it
+does not in any way do justice to the widely practiced scientific language.
+Numerous epistemic structures that would certainly be considered models in the
+representational-theoretical sense would be excluded, simply because a strict
+theory, of which they would be the interpretation models, cannot or has not yet
+been explicitly formulated. Indeed, in many cases, such empirical (and
+technical) model constructions serve precisely to build and develop theories.
+This is where their great heuristic value lies. While such object-centered
+limitation seems unwise, the preferred approach here carries the risk of
+"over-homogenizing" various model concepts, which could significantly empty the
+resulting general concept of a model of meaning. This potential drawback is
+explicitly accepted here.
