@@ -41,11 +41,11 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
       - name: Compile German
-        uses: xu-cheng/latex-action@v3
+        uses: xu-cheng/latex-action@v4
         with:
           root_file: ./build/output/site/german.tex
       - name: Compile English
-        uses: xu-cheng/latex-action@v3
+        uses: xu-cheng/latex-action@v4
         with:
           root_file: ./build/output/site/english.tex
       - name: Upload PDF files
