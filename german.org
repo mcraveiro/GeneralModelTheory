@@ -195,24 +195,83 @@ mathematischen und semantischen Modellkonzeption unterwerfen. Die in Frage
 stehenden Modelle werden nach der Auffassung der betreffenden
 Wissenschaftstheoretiker als „Belegungsmodelle" oder „Realisationen"
 präexistenter Theorien, d. h. als nicht-linguistische, nämlich mengentheoretisch
-erfaßbare Interpretationen linguisti sehet Formgebilde aufgefaß[fn:suppes].
+erfaßbare Interpretationen linguisti sehet Formgebilde aufgefaß[fn:1].
 
-[fn:suppes] Repräsentativ für diese Gruppe von Forschern: P. Suppes, 1961, 1965.
-Vgl. hier und im folgenden das Literaturverzeichnis, S. 363 ff.
+[fn:1] Repräsentativ für diese Gruppe von Forschern: P. Suppes, 1961, 1965. Vgl.
+hier und im folgenden das Literaturverzeichnis, S. 363 ff.
 
-
-Gegen die Übertragung des logisch-semantischen Modellbegriffs auf die Erfahrungs
-Wissenschaften, so logisch befriedigend sie immer sein mag, ist einzuwenden, daß
-sie dem weithin geübten wissenschaftlichen Sprachgebrauch in keiner Weise
-gerecht wird. So würden zahlreiche Erkenntnisgebilde, die im
+Gegen die Übertragung des logisch-semantischen Modellbegriffs auf die
+Erfahrungswissenschaften, so logisch befriedigend sie immer sein mag, ist
+einzuwenden, daß sie dem weithin geübten wissenschaftlichen Sprachgebrauch in
+keiner Weise gerecht wird. So würden zahlreiche Erkenntnisergebnisse, die im
 abbildungstheoretischen Sinne durchaus als Modelle gelten, ausgeklammert, nur
 weil für sie eine strenge Theorie, deren Belegungsmodelle sie wären, nicht oder
-noch nicht explizit angegeben werden kann. Ja, in vielen Fällen dienen derartige
-empirische (und technischej Modelkonstruktionen gerade dem Aufbau und der
-Entwicklung von Theorien. Hierin liegt vornehmlich ihr großer heuristischer
+noch nicht explizit angegeben werden können. Ja, in vielen Fällen dienen
+derartige empirische (und technische) Modellkonstruktionen gerade dem Aufbau und
+der Entwicklung von Theorien. Hierin liegt vornehmlich ihr großer heuristischer
 Wert. Scheint jene gegenständliche Beschränkung mithin wenig ratsam, so ist doch
 andererseits bei dem hier bevorzugten Vorgehen die Gefahr einer
-„Uberhomogenisierung“ unterschiedlichster Modellbegriffe und damit der starken
-Bedeutungsentleerung des resultierenden allgemeinen Modelibegriffs vorerst nicht
+„Überhomogenisierung“ unterschiedlichster Modellbegriffe und damit der starken
+Bedeutungsentleerung des resultierenden allgemeinen Modellbegriffs vorerst nicht
 von der Hand zu weisen. Dieses mögliche Manko wird hier ausdrücklich in Kauf
 genommen.
+
+Bezüglich der letzt erwähnten außerordentlichen Extension des Modellbegriffs
+steht nun die Allgemeine Modelltheorie keineswegs allein da. L. APOSTEL[fn:2]
+hat schon 1961[fn:3] ein gleichfalls umfassendes, und zwar ebenfalls
+abbildungstheoretisches Modellkonzept entwickelt. Seine vom algebraischen
+Isomorphiebegriff ausgehenden sukzessiven „Liberalisierungen“, die schließlich
+zu seinem allgemeinen Modellbegriff führen, sind indes nicht ohne Künstlichkeit.
+Auch scheint sich APOSTEL ohne zwingende Gründe bereits im Ausgangspunkt zu
+stark am mathematischen „Relationengebilde“ (vgl. den Abschnitt 2.3.4.2, S. 243
+ff.) zu orientieren. Das vorliegende Buch geht eher einen umgekehrten Weg. In
+ihm sind nichtsdestoweniger wertvolle Einzelinformationen aus der APOSTELschen
+Arbeit berücksichtigt.
+
+Was APOSTEL gegen Ende seiner Darlegungen[fn:4] bezüglich der Verwendung einer
+formalen Pragmatik andeutet, ist in dem vorliegenden Buch in gewissem Umfang
+ausgeführt worden. Der hierfür bislang wohl einzige brauchbare Ansatz stammt von
+R. M. MARTIN[fn:5], der vor fast fünfzehn Jahren das inzwischen allerdings wenig
+bearbeitete Forschungsgebiet einer streng formalisierten Pragmatischen Logik
+überhaupt ins Leben gerufen hat. Einige Jahre später konnte er in Anlehnung an
+jüngere werttheoretische Forschungen ansatzweise seine klassifikatorische
+„Akzeptionspragmatik“ zu einer komparativen und auch bereits quantitativen
+Pragmatik erweitern[fn:6]. Diese Untersuchungen sind noch nicht besonders ausgereift,
+ihre vorläufigen Ergebnisse eignen sich jedoch nichtsdestoweniger für die hier
+verfolgten modelltheoretischen Zwecke. Der ganze Forschungskomplex im Umkreis
+von formaler Pragmatik und Allgemeiner Modelltheorie bedarf natürlich noch
+eingehender Bearbeitung. Auch das vorliegende Buch ist eigentlich nur Wegweiser
+in ein noch kaum betretenes Neuland.
+
+[fn:2] L. APOSTEL, 1961.
+
+[fn:3] Leider ist mir die in Anm. 2 zitierte Arbeit erst nach Erscheinen meines
+Aufsatzes „Gedanken zu einer allgemeinen Theorie der Modelle“ (H.
+STACHOWIAK, 1965) bekanntgeworden.
+
+[fn:4] A. a. O., Anm. 2, p. 36.
+
+[fn:5] R. M. MARTIN, 1959.
+
+[fn:6] R. M. MARTIN, 1964.
+
+
+Dementsprechend bewegen sich auch die im dritten Kapitel dieses Buches
+unternommenen logischen Formalisierungen, verglichen etwa mit dem hohen
+Formalisierungsstand der logisch-semantischen und mathematischen Modelltheorie,
+nur in sehr engen Grenzen. Der verbale und deskriptive Anteil der Darstellung
+überwiegt insgesamt noch stark. Dies hat allerdings seinen Grund nicht allein in
+sachlichen Schwierigkeiten. Das vorwiegend verbale Gewand der Darstellung
+erklärt sich auch aus der Rücksichtnahme auf solche der Mathematischen Logik
+fernstehende Leser, die sich ohne den recht aufwendigen formalllogischen Apparat
+in die Gedanken des Buches einarbeiten wollen. In der Tagesarbeit stehend
+Erfahrungswissenschaftler und andere modelltheoretisch Interessierte, die sich
+nicht überwiegend mit wissenschaftstheoretisch-logischen und
+linguistisch-analytischen Fragen beschäftigen, sollen ohne großen Zeitaufwand
+förderlichen Zugang zu den behandelten Gegenständen finden. Daher geht die
+Darstellung auch nicht überwiegend deduktiv, sondern gleichsam in induktiver
+Approximation vor. Dies kommt insbesondere darin zum Ausdruck, daß die zu
+explorierenden Begriffe, auch und vor allem der allgemeine Modellbegriff, auf
+verbaler Ebene erörtert, exemplifiziert und geklärt werden, bevor darangegangen
+wird, sie, wo es möglich und vorteilhaft scheint, einer strengeren logischen
+Explikation zu unterwerfen. Der zweite und der dritte

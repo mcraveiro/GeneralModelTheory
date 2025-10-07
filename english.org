@@ -180,22 +180,79 @@ subject them exclusively to the (meta-)mathematical and semantic model
 conception. According to these scientific theorists, the models in question are
 understood as "interpretation models" or "realizations" of pre-existing
 theories, i.e., as non-linguistic, set-theoretically comprehensible
-interpretations of linguistic structures[fn:suppes].
+interpretations of linguistic structures[fn:1].
 
-[fn:suppes] Repräsentativ für diese Gruppe von Forschern: P. Suppes, 1961, 1965.
-Vgl. hier und im folgenden das Literaturverzeichnis, S. 363 ff.
+[fn:1] Repräsentativ für diese Gruppe von Forschern: P. Suppes, 1961, 1965. Vgl.
+hier und im folgenden das Literaturverzeichnis, S. 363 ff.
 
 
-Against the application of the logical-semantic concept of a model to the
-empirical sciences, as logically satisfying as it may be, one can object that it
-does not in any way do justice to the widely practiced scientific language.
-Numerous epistemic structures that would certainly be considered models in the
-representational-theoretical sense would be excluded, simply because a strict
-theory, of which they would be the interpretation models, cannot or has not yet
-been explicitly formulated. Indeed, in many cases, such empirical (and
-technical) model constructions serve precisely to build and develop theories.
-This is where their great heuristic value lies. While such object-centered
-limitation seems unwise, the preferred approach here carries the risk of
-"over-homogenizing" various model concepts, which could significantly empty the
-resulting general concept of a model of meaning. This potential drawback is
-explicitly accepted here.
+Against the transfer of the logical-semantic concept of a model to the empirical
+sciences — however logically satisfying it may always be — it must be objected
+that it does not do justice in any way to the widely practiced scientific use of
+language. Thus, numerous findings that would certainly qualify as models in the
+sense of representation theory would be excluded merely because for them no
+strict theory, of which they would be instantiation models, can yet or still
+cannot be explicitly specified. Indeed, in many cases such empirical (and
+technical) model constructions serve precisely the construction and development
+of theories. This constitutes primarily their great heuristic value. While this
+objective restriction thus appears unwise, on the other hand, the approach
+preferred here carries the risk of an “over-homogenization” of the most diverse
+model concepts, and thereby a significant impoverishment of meaning in the
+resulting general concept of a model, which cannot presently be dismissed. This
+possible shortcoming is expressly accepted here.
+
+Regarding the aforementioned extraordinary extension of the concept of a model,
+General Model Theory is by no means alone. L. APOSTEL[fn:2] already developed in
+1961[fn:3] a similarly comprehensive, and likewise representation-theoretic,
+model concept. His successive “liberalizations,” originating from the algebraic
+concept of isomorphism and ultimately leading to his general model concept, are
+nevertheless not without artificiality. Moreover, APOSTEL seems, without
+compelling reason, to orient himself too strongly at the outset toward the
+mathematical “relational structure” (cf. section 2.3.4.2, p. 243 ff.). The
+present book takes rather the reverse path. Nevertheless, valuable specific
+insights from APOSTEL’s work are taken into account herein.
+
+What APOSTEL hints at toward the end of his exposition[fn:4] concerning the use
+of a formal pragmatics is presented in this book to a certain extent. The only
+viable approach so far stems from R. M. MARTIN[fn:5], who nearly fifteen years
+ago initiated the field — now, however, scarcely explored — of strictly
+formalized Pragmatic Logic. A few years later, he was able to extend his
+classificatory “Acceptance Pragmatics,” drawing on more recent axiological
+research, into a comparative and even quantitative pragmatics[fn:6]. These
+investigations are not yet particularly refined, but their preliminary results
+are nevertheless suitable for the model-theoretical purposes pursued here. The
+entire research complex surrounding formal pragmatics and General Model Theory
+naturally still requires further elaboration. Moreover, the present book is
+essentially only a guidepost pointing toward a largely uncharted territory.
+
+[fn:2] L. APOSTEL, 1961.
+
+[fn:3] Unfortunately, I only became aware of the work cited in note 2 after the
+publication of my essay “Thoughts Toward a General Theory of Models” (H.
+STACHOWIAK, 1965).
+
+[fn:4] Loc. cit., note 2, p. 36.
+
+[fn:5] R. M. MARTIN, 1959.
+
+[fn:6] R. M. MARTIN, 1964.
+
+
+Accordingly, the logical formalizations undertaken in the third chapter of this
+book — when compared, for example, with the high degree of formalization found
+in logical-semantic and mathematical model theory — remain within very narrow
+bounds. The verbal and descriptive portion of the presentation still
+predominates overall. This, however, is not due solely to substantive
+difficulties. The predominantly verbal character of the exposition also reflects
+consideration for readers unfamiliar with Mathematical Logic, who wish to engage
+with the ideas of the book without having to master the rather elaborate
+formal-logical apparatus. Practicing empirical scientists and other
+model-theoretically interested readers, who do not primarily concern themselves
+with epistemological-logical and linguistically-analytical questions, should be
+able to gain fruitful access to the subject matter without great time
+investment. Hence, the exposition proceeds not predominantly deductively, but
+rather inductively, by approximation. This is particularly evident in the fact
+that the concepts to be explored — especially the general concept of a model —
+are first discussed, exemplified, and clarified at the verbal level, before they
+are subjected, wherever possible and advantageous, to stricter logical
+explication. The second and the third
